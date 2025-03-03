@@ -1,6 +1,6 @@
 # Batch Audio Normalizer & Converter 🎶
 [![Version](https://img.shields.io/github/v/release/Indie-Niko/BatchAudioNormalizer?display_name=release)](https://github.com/Indie-Niko/BatchAudioNormalizer/releases/latest)
-[![License](https://img.shields.io/github/license/Indie-Niko/BatchAudioNormalizer)](https://github.com/Indie-Niko/BatchAudioNormalizer/blob/main/LICENSE.md)
+[![License](https://img.shields.io/github/v/license/Indie-Niko/BatchAudioNormalizer)](https://github.com/Indie-Niko/BatchAudioNormalizer/blob/main/LICENSE.md)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Issues](https://img.shields.io/github/issues/Indie-Niko/BatchAudioNormalizer)](https://github.com/Indie-Niko/BatchAudioNormalizer/issues)
 
